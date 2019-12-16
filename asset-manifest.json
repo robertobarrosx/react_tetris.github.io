@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react_tetris.github.io/static/css/main.0a515d9b.chunk.css",
-    "main.js": "/react_tetris.github.io/static/js/main.95c30276.chunk.js",
-    "main.js.map": "/react_tetris.github.io/static/js/main.95c30276.chunk.js.map",
-    "runtime-main.js": "/react_tetris.github.io/static/js/runtime-main.89e459ee.js",
-    "runtime-main.js.map": "/react_tetris.github.io/static/js/runtime-main.89e459ee.js.map",
-    "static/js/2.961584a4.chunk.js": "/react_tetris.github.io/static/js/2.961584a4.chunk.js",
-    "static/js/2.961584a4.chunk.js.map": "/react_tetris.github.io/static/js/2.961584a4.chunk.js.map",
-    "index.html": "/react_tetris.github.io/index.html",
-    "precache-manifest.c3d09f9a897ad8face29e62bf95f858a.js": "/react_tetris.github.io/precache-manifest.c3d09f9a897ad8face29e62bf95f858a.js",
-    "service-worker.js": "/react_tetris.github.io/service-worker.js",
-    "static/css/main.0a515d9b.chunk.css.map": "/react_tetris.github.io/static/css/main.0a515d9b.chunk.css.map",
-    "static/js/2.961584a4.chunk.js.LICENSE": "/react_tetris.github.io/static/js/2.961584a4.chunk.js.LICENSE",
-    "static/media/index.css": "/react_tetris.github.io/static/media/Pixel-LCD-7.e2897552.woff",
-    "static/media/bg.png": "/react_tetris.github.io/static/media/bg.415f0e5a.png"
+    "main.css": "/react_tetris/static/css/main.26aabb5f.chunk.css",
+    "main.js": "/react_tetris/static/js/main.95c30276.chunk.js",
+    "main.js.map": "/react_tetris/static/js/main.95c30276.chunk.js.map",
+    "runtime-main.js": "/react_tetris/static/js/runtime-main.1b659537.js",
+    "runtime-main.js.map": "/react_tetris/static/js/runtime-main.1b659537.js.map",
+    "static/js/2.3b57388c.chunk.js": "/react_tetris/static/js/2.3b57388c.chunk.js",
+    "static/js/2.3b57388c.chunk.js.map": "/react_tetris/static/js/2.3b57388c.chunk.js.map",
+    "index.html": "/react_tetris/index.html",
+    "precache-manifest.c412becf2cde6f9799cbc486ae0c9d97.js": "/react_tetris/precache-manifest.c412becf2cde6f9799cbc486ae0c9d97.js",
+    "service-worker.js": "/react_tetris/service-worker.js",
+    "static/css/main.26aabb5f.chunk.css.map": "/react_tetris/static/css/main.26aabb5f.chunk.css.map",
+    "static/js/2.3b57388c.chunk.js.LICENSE": "/react_tetris/static/js/2.3b57388c.chunk.js.LICENSE",
+    "static/media/index.css": "/react_tetris/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/react_tetris/static/media/bg.415f0e5a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.89e459ee.js",
-    "static/js/2.961584a4.chunk.js",
-    "static/css/main.0a515d9b.chunk.css",
+    "static/js/runtime-main.1b659537.js",
+    "static/js/2.3b57388c.chunk.js",
+    "static/css/main.26aabb5f.chunk.css",
     "static/js/main.95c30276.chunk.js"
   ]
 }
